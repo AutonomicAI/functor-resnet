@@ -1,0 +1,41 @@
+__pycache__/
+*.pyc
+*.sh
+*.zip
+.DS_Store
+.git
+.vscode
+
+# Local secrets/env
+
+.env
+
+*.env
+
+.env.*
+
+# Generated local signing keys
+
+keys/
+
+# Python cache/test cache
+
+__pycache__/
+
+*.py[cod]
+
+.pytest_cache/
+
+.mypy_cache/
+
+.ruff_cache/
+
+# Local DB / temp outputs
+
+*.sqlite
+*.db
+
+tmp/
+
+temp/
+
