@@ -37,4 +37,4 @@ slm_template/
 README.md
 
 ## Benchmarking 
-See [Claude's report](https://www.functormodel.ai/benchmark)
+See <https://www.functormodel.ai/benchmark>
