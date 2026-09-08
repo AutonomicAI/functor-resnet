@@ -26,6 +26,9 @@ A complete model version can then be reconstructed from:
 
 This makes the model lifecycle closer to event-sourced software architecture than traditional opaque checkpoint replacement.
 
+## Benchmarking 
+See <https://www.functormodel.ai/benchmark>
+
 ## Repository Structure
 
 ```text
@@ -36,5 +39,3 @@ slm_template/
 
 README.md
 
-
-See Claude's report at https://www.functormodel.ai/benchmark
