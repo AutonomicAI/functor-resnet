@@ -20,6 +20,8 @@ class SLMModel:
 
     Implements streaming learning by maintaining self.f as a materialized learned function.
     Retained patches are rollback/provenance records, not a nested inference-time closure chain.
+    It is assumed a production model would use Kafka or another streaming log that is immutable so
+    handling of the patches here is purely for demonstrative purposes.
     """
 
     f: Function  # current learned function fₙ(x)
