@@ -29,8 +29,9 @@ This makes the model lifecycle closer to event-sourced software architecture tha
 ## Benchmarking 
 See <https://www.functormodel.ai/benchmark>
 
-##Links
-<https://lounge.ai/@john-harby-ai>
+## Links
+Zenodo - Key FcMA docs: <https://doi.org/10.5281/zenodo.21466484>
+Lounge.ai: <https://lounge.ai/@john-harby-ai>
 
 ## Repository Structure
 
