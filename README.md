@@ -39,3 +39,4 @@ slm_template/
 
 README.md
 
+<a href="https://lounge.ai/@john-harby-ai"><img src="https://lounge.ai/api/badge/john-harby-ai" alt="John Harby on Lounge" height="28"></a>
