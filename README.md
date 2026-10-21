@@ -29,6 +29,9 @@ This makes the model lifecycle closer to event-sourced software architecture tha
 ## Benchmarking 
 See <https://www.functormodel.ai/benchmark>
 
+##Links
+<https://lounge.ai/@john-harby-ai>
+
 ## Repository Structure
 
 ```text
@@ -38,5 +41,3 @@ slm_template/
     ...         # Supporting extracted components
 
 README.md
-
-<a href="https://lounge.ai/@john-harby-ai"><img src="https://lounge.ai/api/badge/john-harby-ai" alt="John Harby on Lounge" height="28"></a>
